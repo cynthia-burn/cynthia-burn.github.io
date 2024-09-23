@@ -1,0 +1,73 @@
+body{
+    background-image: url(../tablas/fondo1.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.a{
+    color: rgb(61, 192, 41);
+    font-size: 20px;
+    width: 200px;
+    background-color: brown;
+    border: solid whitesmoke 5px;
+    padding: 5px;
+    text-align: justify;
+    position: relative;
+    left: 43%;
+    display: inline-block;
+}
+
+.b{
+    color: rgb(61, 192, 41);
+    font-size: 20px;
+    width: 200px;
+    background-color: rgb(64, 32, 168);
+    border: solid whitesmoke 5px;
+    padding: 5px;
+    text-align: justify;
+    position: relative;
+    left: 10%;
+    display: inline-block;
+}
+
+.c{
+    color: rgb(7, 7, 7);
+    font-size: 20px;
+    width: 200px;
+    background-color: rgb(54, 227, 45);
+    border: solid whitesmoke 5px;
+    padding: 5px;
+    text-align: justify;
+    position: relative;
+    left: 25.5%;
+    display: inline-block;
+}
+/*esto si */
+table{
+    border-collapse: collapse;
+    margin: 20px;
+    }
+    
+/*esto si */  
+.f1{
+    background: rgb(36, 123, 16);
+    color: white;   
+}
+    th{
+    background: mediumpurple;
+    color: white;
+    border: 1px solid black;
+    padding: 20px;
+    }
+    
+    td{
+    background: rgb(164, 151, 191);
+    color: white;
+    border: 1px solid black;
+    padding: 20px;
+    }
+    
+    td:hover{
+    background: mediumslateblue;
+    }
+    
